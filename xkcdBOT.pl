@@ -312,10 +312,10 @@ $text = <<END;
 }}
 
 ==Explanation==
-{{incomplete|Created by a BOT - Please change this comment when editing this page. Do NOT delete this tag too soon.}}
+{{incomplete|This page was created recently. Don't remove this notice too soon.}}
 
 ==Transcript==
-{{incomplete transcript|Do NOT delete this tag too soon.}}
+{{incomplete transcript|Don't remove this notice too soon.}}
 
 {{comic discussion}}
 END
